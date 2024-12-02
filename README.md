@@ -1,8 +1,8 @@
 # ros2_for_unity
 
-ROS-TCP-Endpoint公式[こちら](https://github.com/Unity-Technologies/ROS-TCP-Connector?tab=readme-ov-file#installation)
+ROS-TCP-Endpoint公式は[こちら](https://github.com/Unity-Technologies/ROS-TCP-Connector?tab=readme-ov-file#installation)
 
-ROS TCP Connectorをbuildやりかた。
+ROS TCP Connectorをbuildするやりかた。
 
 レポジトリをcloneする際はｰbでブランチ指定します。
 
